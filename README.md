@@ -12,8 +12,8 @@
 
 ## Начать
 
-1. [Открыть локальную игру FujiBall](game/fujiball-spiral/index.html) в браузере после скачивания репозитория.
-2. Прочитать [деньги, риск и блокчейн](learning/README.md), затем [аналогию «бусы → белок → блокчейн»](learning/chains.md).
+1. [Играть в FujiBall онлайн](https://yogasnow.github.io/crypto-family/game/) или [открыть локальные файлы](game/fujiball-spiral/index.html) после скачивания репозитория.
+2. [Начать обучение онлайн](https://yogasnow.github.io/crypto-family/learning.html): деньги, риск, блокчейн, новости; подробности — в [учебном маршруте](learning/README.md).
 3. Посмотреть [код Crypto Watch](watch/README.md) и [пример оповещения](watch/alerts.md): котировки публичные, портфель учебный и вымышленный.
 4. [Рисунок «for dragons» с питахайей](media/for-dragons.png) — художественная карточка проекта, не финансовый график.
 
