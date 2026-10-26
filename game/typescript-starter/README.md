@@ -19,4 +19,4 @@ No API key, wallet, account, or market data is required. The example teaches ris
 3. Move rendering and local progress handling from `../fujiball-spiral/app.js` into typed modules.
 4. Add crypto-specific scenes, playtest them, and only then replace the live build.
 
-This source is available for review and contribution. Any transfer of ownership, licensing, or commercial terms would require a separate agreement; the repository is not a sale offer.
+The TypeScript module is licensed under [MIT](../../CODE-LICENSE.md).
